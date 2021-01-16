@@ -1,16 +1,16 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/qe5out9z.m3u8?s=aLNz42WDXcP78Mr48pAFeA&e=1610788257
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,CFC
+http://cdn3.hhdstreams.club/live/abr_ch5/live/ch5_720p/chunks.m3u8?nimblesessionid=461&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNi8yMDIxIDU6Mzc6NTAgUE0maGFzaF92YWx1ZT12Rk5Gb0ZjVDl4VXJDVzdNV0Z1UGNnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDEuMTAxLjEwNC45JnN0cm1fbGVuPTU=
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans 2
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/c2kxuno.m3u8?s=ie-JqWTnh8WpgH2SC65PaA&e=1610788084
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,CFC 2
+http://cdn3.hhdstreams.club/live/abr_ch5/live/ch5_480p/chunks.m3u8?nimblesessionid=461&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNi8yMDIxIDU6Mzc6NTAgUE0maGFzaF92YWx1ZT12Rk5Gb0ZjVDl4VXJDVzdNV0Z1UGNnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDEuMTAxLjEwNC45JnN0cm1fbGVuPTU=
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans 3
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/qv3s5y7y5c4.m3u8?s=5w-9x3AYPRcwO07HOWCN4g&e=1610788078
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,CFC 3
+https://dailysportbucket6.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans 4
