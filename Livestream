@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Blazer
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/ch7lw.m3u8?s=0jOIl_3LI71MtAaJEfrOAw&e=1610877454ZD0xNDEuMTAxLjEwNC45JnN0cm1fbGVuPTU=
+https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/ch7lw.m3u8?s=SMxzI_WvyxIxhKh_DDOifA&e=1610877987
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Blazer 2
@@ -10,11 +10,11 @@ https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/ch7lw.m3u8?s=xLO9xFpnvOshbD_BUlIeA
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Blazer 3
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/ch7lw.m3u8?s=w04MMMGonhC2_vtIZOKEUA&e=1610877117
+http://89.105.203.90:8081/0/n6/chunks.m3u8?nimblesessionid=4983301
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans 4
-http://45.148.26.176:8081/abr/abr-K-1/hls/K-1_480p/chunks.m3u8?nimblesessionid=45350852
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Blazer 4
+http://cdn10.hhdstreams.club/live/abr_ch8/live/ch8_480p/chunks.m3u8?nimblesessionid=4709&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDIxIDQ6MDM6NTEgQU0maGFzaF92YWx1ZT0zV3pJd0VlZlRMRTlTSUNwN2NQVk13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDEuMTAxLjEwNC45NCZzdHJtX2xlbj01
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,HBO Test
