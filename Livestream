@@ -1,16 +1,16 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,CFC
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bf89e1f7399c48c599edc6fe5294db4b/index1_1.m3u8ZjVDl4VXJDVzdNV0Z1UGNnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDEuMTAxLjEwNC45JnN0cm1fbGVuPTU=
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Blazer
+https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/ch7lw.m3u8?s=0jOIl_3LI71MtAaJEfrOAw&e=1610877454ZD0xNDEuMTAxLjEwNC45JnN0cm1fbGVuPTU=
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,CFC 2
-https://dailysportbucket6.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Blazer 2
+https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/ch7lw.m3u8?s=xLO9xFpnvOshbD_BUlIeAg&e=1610877366
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,CFC 3
-https://dailysportbucket6.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Blazer 3
+https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/ch7lw.m3u8?s=w04MMMGonhC2_vtIZOKEUA&e=1610877117
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans 4
