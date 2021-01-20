@@ -1,16 +1,16 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/ubqnbz9ru.m3u8?s=YRxmIKLF2wW9lxdcksJOAA&e=1611128810&vip=1611018123&dip=MDkxZGRiNmU2Njk5MmQ5ZjEwZDFmYjMyMDU2N2Q3MGM=&pip=NmNhZTdhNjQ1YTk2NjZkYjllZTY4NjQzZTViZTZiYzI=&hip=ZWJhZTYxNTFhNTE3NDU4YTExZmMzODQ0M2M4NTg2NGY=
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,City
+http://cdn3.hhdstreams.club/live/abr_ch1/live/ch1_480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIxIDY6MDQ6NTEgUE0maGFzaF92YWx1ZT1iOVRjVGlKK3NiYzNoNEZJamZ4UXJBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjYyLjE5OSZzdHJtX2xlbj01
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans 2
-http://vip2.ustvnow.live/live/Pelicans/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,City 2
+https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/c2kxuno.m3u8?s=6J-TF-mVmSGatR0x_HVXSg&e=1611187633
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans 3
-https://sn03.quest123.top:8088/stream/shd2470038/playlist.m3u8?vidictid=186477280431&pk=0b0e76aa69aa3412f0f225cb6b8440d5ab4014752244bfe131ea8a48f12be81a&id=10195
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,City 3
+https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/c2kxuno.m3u8?s=pSxnluKf6vCkN65EtqkKhQ&e=1611187660
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans 4
