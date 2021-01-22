@@ -1,12 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,City
-http://cdn3.hhdstreams.club/live/abr_ch1/live/ch1_480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIxIDY6MDQ6NTEgUE0maGFzaF92YWx1ZT1iOVRjVGlKK3NiYzNoNEZJamZ4UXJBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjYyLjE5OSZzdHJtX2xlbj01
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Lakers
+https://cdn103.thatisme.xyz:8443/hls/nbatv1/index.m3u8?st=LHn1N8KcwmuqK-tyN1EqVA&e=1611294443JBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjYyLjE5OSZzdHJtX2xlbj01
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,City 2
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/c2kxuno.m3u8?s=6J-TF-mVmSGatR0x_HVXSg&e=1611187633
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Lakers 2
+https://video-weaver.hkg01.hls.live-video.net/v1/playlist/Cv4EahRa5wSHkr6giTe9zeRdI41xHHNrfKx3j58sO1lrecHNgLlCZBCpo9Ig-GKeS_bsIAMX0O4SYjPeUmmQwbD5l07qcZwNbkNQfDR5E1r6UL649JTphCSDDfsrGWNM792rIE1PD-DkV_KvMCvy_UN0X1zybCf6BmYg39-oZnVBu4ce3wf-m6s0ST6AXXUYVDpX7WcQz4BNWcEgIjCENN8p9XjoJfBUZ9Pr5VhkBV6xXtZNmdxmpVuLxs6j_85vAcpkc_oM_1B3nIlal4V6Aa5CNLL44QVQZBGTuvG3jda-7ft9YIERtNU_3yjjKtt_Fk-MoIHh0x1nrARjNAL_bzTxULUIR3wX4yvNQIxtdF6FyhgUmoIUuYlqOL0p9ql_CyUlgjm4Rem6F37hjprwf_MBmAk8B1nv0eqsP_1zuvvNq25HWHWaobMBwJrm_03spe2IMPYP3Zem2nL9KFmMr4ctrnHhr--Zb8Z09PIP34mDWKwnqKtdfGqPQhkbzkYAQXW_RN7rB-OXKf8fJeomKR3v5HY0uGnTWEQb1hEIChKcHjNG8o_nvHgPGncLJh-esfu-htQH9Re6hVaBgQDvSN8DcXjLzM6lyFTSg4tCv70e2lT43SwVw0AxdHpm4Ad9SWR9wNQVPqc93gdd6fIWhEjtkGnZDpPMW3PRLA8fmfPT4t3GPinLvJ5wnEjxFdx6Qib9jPOEmZlXIqXnV-iPrr-MVkR_4hl5Aar5PyzOxmpshGg3Hod2oDkzPUnMswxYaEcQPu2s6rv_FwRaUyIvsIMthiVhCQRMEUVWJr-OFOwjtzvh5AkrfkJjpbhiYuIhAVjxwhEKF7ng0Ekz2Sgz8ToSEPjmpuc2D26Fd0xUsCa3wxcaDByWRNMyh_6iVdkK7Q.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,City 3
