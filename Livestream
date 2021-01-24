@@ -1,14 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Barca
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/262f7861595342038d56263fa0a67216/index4_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Live
+http://mineforyou.azureedge.net/hls/sno/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Barca 2
-https://dailysportbucket14.s3.eu-west-3.amazonaws.com/2/2.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Live 2
+http://cdn4.hhdstreams.club/live/abr_ch5/live/ch5_480p/chunks.m3u8?nimblesessionid=74032&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDIxIDU6MDY6MDAgUE0maGFzaF92YWx1ZT1LamtlOTJzKzh1cnNibGxIT0hIZ0lBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDEuMTAxLjEwNS43NCZzdHJtX2xlbj01
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Clippers 3
-https://cdn104.thatisme.xyz/hls/nbatv1/index.m3u8?st=C0V8pa05vscEkPNLXAXQrQ&e=1611382151
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Live 3
+http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5/chunks.m3u8?nimblesessionid=30314&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDIxIDU6MDY6MDkgUE0maGFzaF92YWx1ZT05VVlOMWc2R3YrNUFWSUtOUjZ2UUtnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDEuMTAxLjEwNC45JnN0cm1fbGVuPTU=
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans 4
