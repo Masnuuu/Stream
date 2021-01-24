@@ -2,17 +2,16 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Live
-http://mineforyou.azureedge.net/hls/sno/chunks.m3u8
+https://dailysportbucket14.s3.eu-west-3.amazonaws.com/e1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Live 2
-http://cdn4.hhdstreams.club/live/abr_ch5/live/ch5_480p/chunks.m3u8?nimblesessionid=74032&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDIxIDU6MDY6MDAgUE0maGFzaF92YWx1ZT1LamtlOTJzKzh1cnNibGxIT0hIZ0lBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDEuMTAxLjEwNS43NCZzdHJtX2xlbj01
+https://manifest-gce-us-east4-production.fastly.mux.com/JEOF02V4fGSyxgrye8qB01xz97Ys7AODn8tdDM51sc01VsurSN02Dmzvioglv1DcS8YqFgT5FqIV133R6tuorQUoR3Y43G02UdyO6vufBC02vaoGM/rendition.m3u8?cdn=fastly&expires=1612112400&skid=default&live=1&signature=NjAxNmUyMTBfZDFjNjZjYjAxMmRlN2RmNWMwYmU3OWMyOTZkYjNiYmY4YmU1N2U3ZTQxNDNmMjA5NjZmODAyNDBhYjQ1MjMzZg==
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Live 3
-http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5/chunks.m3u8?nimblesessionid=30314&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDIxIDU6MDY6MDkgUE0maGFzaF92YWx1ZT05VVlOMWc2R3YrNUFWSUtOUjZ2UUtnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDEuMTAxLjEwNC45JnN0cm1fbGVuPTU=
+https://manifest-gce-us-east4-production.fastly.mux.com/fCvy01CnS01TRrrMBCwHo00UlnjJ7d9w5NXS0002OeEGoSHAv3MfZTJNMCXuueP1ayhHGWk5lepfZub02q3m003nHKXpspetmWBP02mcDzcWgi8b8B8/rendition.m3u8?cdn=fastly&expires=1612112400&skid=default&live=1&signature=NjAxNmUyMTBfMWZkMDkxODM3OWE1YTE1ZjU2OTY4MmJlYjZiYTAyNjhkMjE2OThjNjM4ZTU1NmMwY2IyYjRmNjk2MWM0ZGVkMA==
 
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Pelicans 4
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/ubqnbz9ru.m3u8?s=HABrqUP_fCNTOjdI9EzC7g&e=1611129333
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Live 4
+https://d18xr12qxdvhum.cloudfront.net/out/v1/ad2497cadc5549bf869406505dcd324f/index_3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,HBO Test
