@@ -2,10 +2,10 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Live
-https://dailysportbucket14.s3.eu-west-3.amazonaws.com/e1/1.m3u8
+http://45.134.21.230/hls/T1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Live 2
-https://manifest-gce-us-east4-production.fastly.mux.com/JEOF02V4fGSyxgrye8qB01xz97Ys7AODn8tdDM51sc01VsurSN02Dmzvioglv1DcS8YqFgT5FqIV133R6tuorQUoR3Y43G02UdyO6vufBC02vaoGM/rendition.m3u8?cdn=fastly&expires=1612112400&skid=default&live=1&signature=NjAxNmUyMTBfZDFjNjZjYjAxMmRlN2RmNWMwYmU3OWMyOTZkYjNiYmY4YmU1N2U3ZTQxNDNmMjA5NjZmODAyNDBhYjQ1MjMzZg==
+http://wp.highstream.club/edge/NBA6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Live 3
 https://manifest-gce-us-east4-production.fastly.mux.com/fCvy01CnS01TRrrMBCwHo00UlnjJ7d9w5NXS0002OeEGoSHAv3MfZTJNMCXuueP1ayhHGWk5lepfZub02q3m003nHKXpspetmWBP02mcDzcWgi8b8B8/rendition.m3u8?cdn=fastly&expires=1612112400&skid=default&live=1&signature=NjAxNmUyMTBfMWZkMDkxODM3OWE1YTE1ZjU2OTY4MmJlYjZiYTAyNjhkMjE2OThjNjM4ZTU1NmMwY2IyYjRmNjk2MWM0ZGVkMA==
