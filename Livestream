@@ -1,10 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,pelican
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,lakers
 https://s03.quest123.top:8088/adfree/shd2472703/playlist.m3u8?vidictid=18656123869&pk=359b9ee643a6da4123ab7333777cb75829a2899717faecc10e76972018248e64&id=11276
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,pelican 2
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,lakers 2
 https://sn03.quest123.top:8088/stream/sportsway38/playlist.m3u8?vidictid=186561708170&pk=359b9ee643a6da4123ab7333777cb75829a2899717faecc10e76972018248e64&id=10194
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,pelican 3
