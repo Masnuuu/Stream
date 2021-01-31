@@ -1,17 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,lakers
-http://rmailoto.azureedge.net/hls/pelicans/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cfc
+http://ngv4.dnscd.xyz/hls/bt1hd88/chunks.m3u8?nimblesessionid=75576&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDEyOjA2OjQ1IFBNJmhhc2hfdmFsdWU9c251WG1zNk9RWUM0WHh2dW9NK3BJQT09JnZhbGlkbWludXRlcz03MA==
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,lakers 2
-https://video-weaver.hkg01.hls.live-video.net/v1/playlist/CoEFkhp5NFhvljTlDSFERrZ1eNgYPyHFUEh36OU-tH1IXnq2m6R7ljtHS9le9TLa974MzHsvVvo8xHsXSITBXiMupa3m8-3zmeouQyMw8VRfVBBQ17Pkc0GQg3XhEm12d2MF6c3SnrAUQ5UW1VCUN62yE3BqDIDKQ7sOnVXlgNiAwqk_hIqa1hJ17EWz-8f2PrmTDH5EEtNsP62T3lXOOH5hHDWVjtmEAlLeHTRwXxjOd7FdlpkQW5Rg86aofkInFIE5lU8rX1Z-Zv2hccCxFb5DKo2QqmUXKZ33Kd34nCqTkU0fLI9-ZliS5qq3nCOyGNyS3ocStkgG5cBswJDLpfqulLNpS1meTOus5jTqi7GdYF4XiEJjL3EeywuwNJ_fGg6PU3W6X9CmRFgW85SZIYR1zAP9C80wwOI61q5N29ISd2G-od15SXAlQLvkAO1isJ5PKG_TIk2JCDy3ZV9brEFyV-du3A5mtMpb3truy-j_H-4v38mripy7u2EsDefxS0kFohL-8VLtrpK5kzvRyxzA_-moaWEgxv9pdIlyIKNPZ-caBRuu4LewPPXqt-DaNTsNM6vlhERZYvj1YXIU4Z_llrOf3VBUvRGZ5IFQ-6zThqcZqyqO_fuPVwKzK-NnwuiTar5uueN20lq3uloQ_6qArcGEjcYVTLp4EWiTgL8ClU2ZKA3gKq3s_ZpqaV73Z9XX2EjCN-2m9G54NfxgqlxBBhWGzbdQynLvUwFnbv5iipYo9u6wnsCkBoGdIgfI4YAksxW_0XSZkbyVBuo440ed59b6HabQxC99ytyI_kXsk1LvEL3ZmVOo6S_XIVBUgGCxYea6cm7YHaqSwVqKl2PR92ASEGwUCnYGOnfnsWDFvvQtISwaDHYb7v6ib2dRFAH68Q.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cfc 2
+http://ngv1.dnscd.xyz/hls/lsh3hd120/chunks.m3u8?nimblesessionid=38364&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDEyOjA4OjEyIFBNJmhhc2hfdmFsdWU9Q1kvWjZzR0pCSFJNUXhXUnc4ZDlJQT09JnZhbGlkbWludXRlcz03MA==
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,pelican 3
-http://192.166.246.227:8081/abr_hls/abr_S-5/hls/S-5_480p/chunks.m3u8?nimblesessionid=1661473&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDE6NDY6MzEgQU0maGFzaF92YWx1ZT1WaWJHS3lVaTBVdVl6NjNrVjJQb3VBPT0mdmFsaWRtaW51dGVzPTMwJnN0cm1fbGVuPTE1
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cfc 3
+http://62.182.80.180:8081/live/vch3sd.m3u8?e=1612102004&st=BTeJVg2AxeaGyONW72Fy6A
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,pelican 4
-https://sn03.quest123.top:8088/adfree/shd2470039/playlist.m3u8?vidictid=186553326913&pk=359b9ee643a6da4123ab7333777cb75829a2899717faecc10e76972018248e64&id=11279
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cfc 4
+http://62.182.80.180:8081/live/sky1sd4.m3u8?e=1612102183&st=bya2htld_GKv2aGn1WVsMg
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,HBO Test
