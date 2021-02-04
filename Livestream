@@ -1,14 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cfc
-http://ngv4.dnscd.xyz/hls/bt1hd88/chunks.m3u8?nimblesessionid=75576&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDEyOjA2OjQ1IFBNJmhhc2hfdmFsdWU9c251WG1zNk9RWUM0WHh2dW9NK3BJQT09JnZhbGlkbWludXRlcz03MA==
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cetot
+http://ngv4.dnscd.xyz/hls/bt1hd88/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgNzo1NDo0NyBQTSZoYXNoX3ZhbHVlPVFEZ29vbkF3OVJyUkRYdEs5aWJzZmc9PSZ2YWxpZG1pbnV0ZXM9NzA=
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cfc 2
-http://ngv1.dnscd.xyz/hls/lsh3hd120/chunks.m3u8?nimblesessionid=38364&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDEyOjA4OjEyIFBNJmhhc2hfdmFsdWU9Q1kvWjZzR0pCSFJNUXhXUnc4ZDlJQT09JnZhbGlkbWludXRlcz03MA==
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cetot 2
+http://ngv2.dnscd.xyz/hls/bt1hd88/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjEgNzo1NDoxOSBQTSZoYXNoX3ZhbHVlPWdPbjBMbG1BQTZpemxRLzA5T1hYQmc9PSZ2YWxpZG1pbnV0ZXM9NzA=
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cfc 3
-http://62.182.80.180:8081/live/vch3sd.m3u8?e=1612102004&st=BTeJVg2AxeaGyONW72Fy6A
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cetot 3
+https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/is3w1o5jii3.m3u8?s=JdOBOufAjs86nhK4284l1g&e=1612489831
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cfc 4
 http://62.182.80.180:8081/live/sky1sd4.m3u8?e=1612102183&st=bya2htld_GKv2aGn1WVsMg
