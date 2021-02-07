@@ -2,13 +2,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,city
-http://ngv2.dnscd.xyz/hls/skyeplhd11/chunks.m3u8?nimblesessionid=70820&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjEgNDoyNzowOCBQTSZoYXNoX3ZhbHVlPTRsRk0wZXV0TXNHdWRQRkNma0t5Z3c9PSZ2YWxpZG1pbnV0ZXM9NzA=
+https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/revhhwuz59umft3.m3u8?s=slrXkiR0P3--jpHGAo7v7Q&e=1612737523
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,city 2
-http://ngv1.dnscd.xyz/hls/skymaineventhd155/chunks.m3u8?nimblesessionid=455272&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjEgNDoyOTozNCBQTSZoYXNoX3ZhbHVlPWxqQmNIRXpMWldSMDFieUk0eGQwK0E9PSZ2YWxpZG1pbnV0ZXM9NzA=
+https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/4g76m.m3u8?s=WSEZRPcdE3YvuUALuW0Vqg&e=1612737551
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,city 3
-http://62.182.85.108:8081/live/skyepllsh.m3u8?e=1612722299&st=-PNh8sQHdJhjS1iD93Dp8A
+https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/4nz76ja5rj.m3u8?s=rl7iJU6ztp5Gz4xZmNNbVw&e=1612737602
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cetot 4
 https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/lhsxqdvo56ane.m3u8?s=enBYJEW2QE52V9u2KAy8UA&e=1612685667
