@@ -11,7 +11,7 @@ http://45.95.235.105:8080/hls/streama146692/index.m3u8?st=-wzEhd5JNt25BxYksTmNwA
 http://blnlondb.azureedge.net/hls/pelicans/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cetot 4
-http://87.120.36.32:8080/hls/streama146692/index.m3u8?st=-wzEhd5JNt25BxYksTmNwA
+http://87.120.36.32:8080/hls/streama146692/index.m3u8?
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,HBO Test
