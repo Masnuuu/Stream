@@ -1,14 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Bull
-http://rehdae.azureedge.net/hls/bulls/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Plc
+http://185.233.186.249:8080/hls/streama146680/index.m3u8?cst=9674b631e129ddbfe5143720d7a2f0cb
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Bull 2
-http://192.166.246.231/hls/A4.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Plc 2
+https://s07.quest123.top:8088/adfree/shd2472703/playlist.m3u8?vidictid=186759352143&pk=bc1dc8b52689b7d69d65b0eef0858cd6245bcc0101be49fbb4bb8f5ee32ec622&id=11276
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Bull 3
-http://139.59.13.191/-/n6/chunks.m3u8?nimblesessionid=1850468
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Plc 3
+https://2th25ea59mp7r29.ezcdn421.net:8443/hls/iicmwmn5badb9.m3u8?s=RGb6h1WG4V5h_VxcdgBmjw&e=1613550437
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,cetot 4
 https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/lhsxqdvo56ane.m3u8?s=enBYJEW2QE52V9u2KAy8UA&e=1612685667
