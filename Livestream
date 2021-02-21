@@ -1,14 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chelsea
-http://185.233.186.249:8080/hls/streama141888/index.m3u8?cst=f019ee86e847baf9e8807499990a7e62
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,siti
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/606dfa28d29f472e867ca38afe54b31c/index5_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chelsea 2
-http://87.120.36.62:8080/hls/streama149833/index.m3u8?cst=64a12e33921eebd5832f8d11e81f1bbc
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,siti 2
+https://sporting77.com/lba/MGE1MDI5Y2Y1NTcwNWU1ODlkYWQ0ODgwYjdhZmQwODc=/g7/maineventss.m3u8?token=MGE1MDI5Y2Y1NTcwNWU1ODlkYWQ0ODgwYjdhZmQwODc=&id=NjU4MTk5Y2JhYzA0ZWYxM2FkMmI3N2Y3YWMwY2QxOWM=&vip=1613921626&dip=N2FjNjdhZTkyZDNmNWFmMGYyYzRkOTg5MjU1MmYxZTg=&pip=NjI3MjIxMThhYzkxNWMzYmIwOWIwOTMyM2Y3MTI5MWU=&hip=ZjYyMDE5NTRjMTRjNGQxOTExNmI2ZjliY2U5MGNjZWI=
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chelsea 3
-https://sporting77.com/lba/MGZhZDIwNTcxMzM0MTExMWFjMmMyY2ViZTNmOTY0MDA=/g1/btuk1.m3u8?token=MGZhZDIwNTcxMzM0MTExMWFjMmMyY2ViZTNmOTY0MDA=&id=MmFkM2UwYmRhMzM1MGE3ZDVlM2FmOTMzNDE1MTdjZmE=&vip=1613816903&dip=YTg0YWE0MjcyOTk2MWM0Zjc0MGYzN2IwODJmY2NlNzI=&pip=NjI3MjIxMThhYzkxNWMzYmIwOWIwOTMyM2Y3MTI5MWU=&hip=ZjYyMDE5NTRjMTRjNGQxOTExNmI2ZjliY2U5MGNjZWI=
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,siti 3
+https://sporting77.com/lba/YWQxZjEzZjJjNTk4OGY4NDEwNDI5NWEzMjZhYjY3MDE=/g8/sspl.m3u8?token=YWQxZjEzZjJjNTk4OGY4NDEwNDI5NWEzMjZhYjY3MDE=&id=OGI1ODE4MDM0ZWIxNzExOTA0OTg5YWE4MzQwNGIxZmU=&vip=1613921707&dip=NTVkNWJkNmY2OWU0YTVmMGYxNzJjOWU1Njk2ZjY0NzY=&pip=NjI3MjIxMThhYzkxNWMzYmIwOWIwOTMyM2Y3MTI5MWU=&hip=ZjYyMDE5NTRjMTRjNGQxOTExNmI2ZjliY2U5MGNjZWI=613816903&dip=YTg0YWE0MjcyOTk2MWM0Zjc0MGYzN2IwODJmY2NlNzI=&pip=NjI3MjIxMThhYzkxNWMzYmIwOWIwOTMyM2Y3MTI5MWU=&hip=ZjYyMDE5NTRjMTRjNGQxOTExNmI2ZjliY2U5MGNjZWI=
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chelsea 4
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/308776c26e3143048f1b09d589ad34fc/index1_1.m3u8
