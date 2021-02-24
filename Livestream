@@ -5,13 +5,13 @@
 http://87.120.36.57:8080/hls/streama146710/index.m3u8?cst=1072dedea80583e8650ccf77a7faa3ed
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz 2
-http://62.182.80.180:8081/live/nba2sd3.m3u8?e=1614148335&st=NOK3hJiGzkdM820Mkb2yRg
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz 3
 https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/wpkrm3okertnl5l.m3u8?s=jEOjyyzLe7zIzg_k5kINeA&e=1614163039
 
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz 3
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/w6o15aize2fc9vn.m3u8?s=LJvvNcnhtNCjaYC_gTh3bw&e=1614163502
+
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chelsea 4
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/308776c26e3143048f1b09d589ad34fc/index1_1.m3u8
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/w6o15aize2fc9vn.m3u8?s=LJvvNcnhtNCjaYC_gTh3bw&e=1614163502
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,HBO Test
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_3.m3u8?m=1589266180
