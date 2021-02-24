@@ -1,14 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,lakers
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz
 http://web.savefiless.xyz/edge/NBA6/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,atlanta 2
-http://185.233.186.249:8080/hls/streama144946/index.m3u8?cst=fe3c5dc344987097c89d0fe071745389
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz 2
+https://hls.raino.xyz/nba/wizards.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,siti 3
-https://sporting77.com/lba/YWQxZjEzZjJjNTk4OGY4NDEwNDI5NWEzMjZhYjY3MDE=/g8/sspl.m3u8?token=YWQxZjEzZjJjNTk4OGY4NDEwNDI5NWEzMjZhYjY3MDE=&id=OGI1ODE4MDM0ZWIxNzExOTA0OTg5YWE4MzQwNGIxZmU=&vip=1613921707&dip=NTVkNWJkNmY2OWU0YTVmMGYxNzJjOWU1Njk2ZjY0NzY=&pip=NjI3MjIxMThhYzkxNWMzYmIwOWIwOTMyM2Y3MTI5MWU=&hip=ZjYyMDE5NTRjMTRjNGQxOTExNmI2ZjliY2U5MGNjZWI=613816903&dip=YTg0YWE0MjcyOTk2MWM0Zjc0MGYzN2IwODJmY2NlNzI=&pip=NjI3MjIxMThhYzkxNWMzYmIwOWIwOTMyM2Y3MTI5MWU=&hip=ZjYyMDE5NTRjMTRjNGQxOTExNmI2ZjliY2U5MGNjZWI=
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz 3
+http://cdn9.hdstreamss.club/live/abr_ch10/live/ch10_480p/chunks.m3u8?nimblesessionid=62185&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIxIDQ6MjQ6NDUgQU0maGFzaF92YWx1ZT1kb1pWWUd0Tjd1TStpdXM4Vkk3T0F3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjE3OS4yMzAmc3RybV9sZW49NQ==
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chelsea 4
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/308776c26e3143048f1b09d589ad34fc/index1_1.m3u8
