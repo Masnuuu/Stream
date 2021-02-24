@@ -2,13 +2,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz
-http://web.savefiless.xyz/edge/NBA6/chunks.m3u8
+http://87.120.36.57:8080/hls/streama146710/index.m3u8?cst=1072dedea80583e8650ccf77a7faa3ed
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz 2
-https://hls.raino.xyz/nba/wizards.m3u8
+http://62.182.80.180:8081/live/nba2sd3.m3u8?e=1614148335&st=NOK3hJiGzkdM820Mkb2yRg
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz 3
-http://cdn9.hdstreamss.club/live/abr_ch10/live/ch10_480p/chunks.m3u8?nimblesessionid=62185&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIxIDQ6MjQ6NDUgQU0maGFzaF92YWx1ZT1kb1pWWUd0Tjd1TStpdXM4Vkk3T0F3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjE3OS4yMzAmc3RybV9sZW49NQ==
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/wpkrm3okertnl5l.m3u8?s=jEOjyyzLe7zIzg_k5kINeA&e=1614163039
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chelsea 4
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/308776c26e3143048f1b09d589ad34fc/index1_1.m3u8
