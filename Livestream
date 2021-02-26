@@ -1,17 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz
-http://87.120.36.57:8080/hls/streama146710/index.m3u8?cst=1072dedea80583e8650ccf77a7faa3ed
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc
+https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/j98bqmnd0.m3u8?s=fr6w60xhnAHp2scqeY5ucg&e=1614332270
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz 2
-https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/wpkrm3okertnl5l.m3u8?s=jEOjyyzLe7zIzg_k5kINeA&e=1614163039
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 2
+https://s07.quest123.top:8088/adfree/shd2471221/playlist.m3u8?vidictid=186846554783&pk=73b06ca071b00e54989216664b0b2f4a58e4de65454d316e8272cb4a0cb48018&id=11287
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,wizz 3
-https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/w6o15aize2fc9vn.m3u8?s=LJvvNcnhtNCjaYC_gTh3bw&e=1614163502
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 3
+https://s01.quest123.top:8088/stream/sportsway431/playlist.m3u8?vidictid=186842822593&pk=73b06ca071b00e54989216664b0b2f4a58e4de65454d316e8272cb4a0cb48018&id=10159
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chelsea 4
-https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/w6o15aize2fc9vn.m3u8?s=LJvvNcnhtNCjaYC_gTh3bw&e=1614163502
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 4
+http://mancaste.azureedge.net/hls/bucks/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,HBO Test
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_3.m3u8?m=1589266180
