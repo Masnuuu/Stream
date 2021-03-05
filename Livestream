@@ -1,17 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chl
-http://45.95.235.105:8080/hls/streama141888/index.m3u8?cst=7318bfe642573123b9e04ea059b645d1
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc
+http://77.247.109.92/hls/n6.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,siti 2
-http://77.247.109.116/hls/ovostreamss1.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 2
+http://d2vtuv5lkc0c7o.cloudfront.net/stream/pelicans_720p30.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,siti 3
-https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/s7c9en.m3u8?s=nT1p6ZLrotNCd6O-BOyW0Q&e=1614452796
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 3
+http://d2vtuv5lkc0c7o.cloudfront.net/stream/pacers_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 4
-https://hls.raino.xyz/nba/pelicans.m3u8
+http://185.233.186.251:8080/hls/streama146711/index.m3u8?cst=dae16c787c0f61186ceef137f354365c
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,HBO Test
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_3.m3u8?m=1589266180
