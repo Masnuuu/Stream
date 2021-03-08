@@ -1,17 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,sendal
-https://d3r2monjhh5xm3.cloudfront.net/hls/sportek-live.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Chl
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/s7c9en.m3u8?s=QdMXiiDEZw9t1mpGHQGOxg&e=1615248251
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,sendal 2
-http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chl 2
+http://cdn.streamspass.club/live/streamsd/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjEgNjowMjoyMyBQTSZoYXNoX3ZhbHVlPXN0eTlhWkdBVW1IVXRKWGNxMkt1RlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTgyLjAuMjI4LjE2NSZzdHJtX2xlbj01
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 3
-http://d2vtuv5lkc0c7o.cloudfront.net/stream/pacers_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chl 3
+https://meridix-live3.secure.footprint.net/live/mathisencd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 4
-http://185.233.186.251:8080/hls/streama146711/index.m3u8?cst=dae16c787c0f61186ceef137f354365c
+75.468.364.7-647.000
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,HBO Test
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_3.m3u8?m=1589266180
