@@ -1,17 +1,20 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,Chl
-https://content-zeuuks-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1615226341&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=b71bfbc6d57f75d1cf193225161667037b664f6c14b61ebe967713035d41b6ab&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=760483300baba3a4b149f465978e22384bfecb6cf2b74829c6d9b5cea2865399&pbs=aa6383b7d3be4c1b816aa43487207f47
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,ars
+https://d2g3zaa1t5rb3v.cloudfront.net/hls/nbcsn.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chl 2
-http://62.182.85.108:8081/live/btsports1lsh58.m3u8?e=1615238479&st=cNQEkmIXD2EuCQmKDb-2tg
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,ars 2
+http://185.233.186.251:8080/hls/streama145280/index.m3u8?cst=06184aee5b1d29dc0eb027b53bd22d09
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,chl 3
-http://62.182.85.108:8081/live/btsports1lsh58.m3u8?e=1615238502&st=snsSwmIk5PtR5iW7hh6m-w
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,ars 3
+http://103.145.12.195:8080/hls/streama151366/index.m3u8?cst=2a23545787eef1eb4c01e23de68a0b68
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 4
-https://content-zeuuks-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1615226341&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=b71bfbc6d57f75d1cf193225161667037b664f6c14b61ebe967713035d41b6ab&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=760483300baba3a4b149f465978e22384bfecb6cf2b74829c6d9b5cea2865399&pbs=aa6383b7d3be4c1b816aa43487207f47
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,ars 4
+http://87.120.36.32:8080/hls/streama151366/index.m3u8?cst=c6cd06527c43cdc10e40d3e6800972e5
+
+tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,ars 5
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/4g76m.m3u8?s=oP6mJnexr-3bx8ct8PtOEA&e=1615761029
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,HBO Test
 https://edge.roku-live.top.comcast.net/out/u/hbo-east_3.m3u8?m=1589266180
