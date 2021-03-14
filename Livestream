@@ -13,7 +13,7 @@ http://103.145.12.195:8080/hls/streama151366/index.m3u8?cst=2a23545787eef1eb4c01
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,ars 4
 http://87.120.36.32:8080/hls/streama151366/index.m3u8?cst=c6cd06527c43cdc10e40d3e6800972e5
 
-tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,ars 5
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,ars 5
 https://dbghae58x7vt67da.ezcdn483.net:8443/hls/4g76m.m3u8?s=oP6mJnexr-3bx8ct8PtOEA&e=1615761029
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,HBO Test
