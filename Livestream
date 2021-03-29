@@ -1,11 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/j98bqmnd0.m3u8?s=gSKCPy5EUSB2vHBa3HNA2Q&e=1615968347
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,lal
+https://mg79qkb28x4up6a.ezcdn462.net:8443/hls/wokcu16ro5n65d.m3u8?s=rkUODx7F2yrAPk6Ll0NmAQ&e=1617009449
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 2
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/t2ihpvditfgub44.m3u8?s=B1F168ewV4tHt6ao7spYFg&e=1615968338
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,lal 2
+http://hittkunwa.azureedge.net/hls/lakers/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 3
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/t2ihpvditfgub44.m3u8?s=o8alite-MZ4YqG84BeDCpQ&e=1615968303
