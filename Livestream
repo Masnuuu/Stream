@@ -1,17 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,w
-https://pebyaj4hyf5mumvf.ezcdn383.net:8443/hls/c2kxuno.m3u8?s=mjjBZ91CsUW1DIbQAsTYLg&e=1618172669
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,m
+https://pebyaj4hyf5mumvf.ezcdn383.net:8443/hls/7dn5w2.m3u8?s=sRJZwvbNnnCt66xqRd094g&e=1618177041
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,w 2
-https://d1538xu1tez9sg.cloudfront.net/out/v1/5ad0dc57fbf243da8ea13e836b56816b/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,m 2
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/27aa0dfc8ff24458bf1e0b20ef9bdcc4/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,w 3
-https://pebyaj4hyf5mumvf.ezcdn383.net:8443/hls/4g76m.m3u8?s=9wYg_8grvmemEirH1NX2Wg&e=1618172430
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,m 3
+https://pebyaj4hyf5mumvf.ezcdn383.net:8443/hls/6czy1j.m3u8?s=thiPAK0WyciWgP7bJHWPbA&e=1618176845
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 4
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/j98bqmnd0.m3u8?s=AGGZMalr61a0NqXnlaivQQ&e=1615968805
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,m 4
+http://45.95.235.104:8080/hls/streama147027/index.m3u8?cst=341fae0b4f3bf44c998b79e1780f459a
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/310-3100260_vintage-tv-clipart.png" ,plc 5
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/c2kxuno.m3u8?s=6FYq1ZEdKpaTn_rygwRYEg&e=1615968157
